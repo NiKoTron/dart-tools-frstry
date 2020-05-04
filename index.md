@@ -16,7 +16,7 @@ page_sections:
     button_text: pub.dev
 - template: hero-banner-w-image
   block: hero-2
-  headline: Dart tools<br><strong>written on dart</strong>
+  headline: Dart tools<br><strong>on dart</strong>
   content: There are tools written by me on the dart language.
   cta:
     enabled: true
