@@ -32,7 +32,8 @@ page_sections:
   block: feature-1
   media_alignment: Left
   headline: "<strong>Dart tags </strong>| library for parsing ID3 tags."
-  content: ID3 Tag parser written on the pure dart language.
+  content: ID3 Tag parser written on the pure dart language.<br><br>view on <a href="https://github.com/NiKoTron/dart-tags"
+    title="GitHub">GitHub</a> | <a href="https://pub.dev/packages/dart_tags" title="Pub.dev">Pub.dev</a>
   media:
     image: "/uploads/2020/05/04/Id3v2_logo.png"
     alt_text: ID3 v2
