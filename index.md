@@ -11,8 +11,6 @@ page_sections:
     link_text: Home
   - link: "#projects"
     link_text: Projects
-  - link: "#pubdev"
-    link_text: PubDev
   cta:
     url: https://pub.dev/publishers/dart.tools/packages
     button_text: pub.dev
@@ -40,13 +38,22 @@ page_sections:
 - template: content-feature
   block: feature-1
   media_alignment: Right
-  headline: <strong>Customize Blocks</strong><span class="light">&nbsp;to make quick
-    edits throughout your new site</span>
-  content: Each block comes with custom Front Matter that can easily be edited in
-    Forestry's UI.
+  headline: <strong>Dart LUT</strong><span class="light"> | </span>The library for
+    working with LookUp tables.
+  content: The image processing library via 3d LUT that's written on the pure dart
+    language.<br><br>view on <a href="https://github.com/NiKoTron/dart-lut" title="GitHub">GitHub</a>
+    | <a href="https://pub.dev/packages/dart_lut" title="Pub.dev">Pub.dev</a>
   media:
-    image: "/uploads/2018/06/21/edit.gif"
-    alt_text: Customize Blocks
+    image: "/uploads/2020/05/04/3d-lut.png"
+    alt_text: 3D LUT
+- template: content-feature
+  block: feature-1
+  media_alignment: Right
+  headline: ''
+  content: ''
+  media:
+    image: ''
+    alt_text: ''
 - template: 1-column-text
   block: one-column-1
   headline: 16 Fully Responsive Design Blocks
