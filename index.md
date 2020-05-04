@@ -72,7 +72,7 @@ page_sections:
     article</a> and create your own Blocks.</p></li></ol>
 - template: simple-footer
   block: footer-1
-  content: Hello world! ❤︎
+  content: feel free to contact me <a href="" title="">nickolay.simonov@outlook.com</a>
 
 ---
 foo bar
