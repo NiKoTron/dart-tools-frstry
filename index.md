@@ -21,7 +21,7 @@ page_sections:
   cta:
     enabled: true
     url: https://github.com/NiKoTron
-    button_text: 'See me on GitHub '
+    button_text: 'Folow me on GitHub '
   image:
     image: ''
     alt_text: ''
