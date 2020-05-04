@@ -23,8 +23,8 @@ page_sections:
     url: https://github.com/NiKoTron
     button_text: 'See me on GitHub '
   image:
-    image: "/uploads/2018/06/21/product-shot-1.png"
-    alt_text: Product Shot
+    image: ''
+    alt_text: ''
   background_image: ''
 - template: content-feature
   block: feature-1
