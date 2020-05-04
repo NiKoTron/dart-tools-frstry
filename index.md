@@ -14,8 +14,8 @@ page_sections:
   - link: "#pubdev"
     link_text: PubDev
   cta:
-    url: https://github.com/forestryio/ubuild-jekyll/archive/master.zip
-    button_text: Download
+    url: https://pub.dev/publishers/dart.tools/packages
+    button_text: pub.dev
 - template: hero-banner-w-image
   block: hero-2
   headline: uBuild <br><strong>design blocks</strong>
