@@ -4,7 +4,7 @@ author: Nikolai Simonov
 email: nickolay.simonov@outlook.com
 description: Dart tools. personal projekt
 baseurl: "/"
-url: ''
+url: https://dart.tools/
 defaults:
 - scope:
     path: ''
