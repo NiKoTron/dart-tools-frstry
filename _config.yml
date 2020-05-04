@@ -3,7 +3,7 @@ title: dart.tools
 author: Nikolai Simonov
 email: nickolay.simonov@outlook.com
 description: Dart tools. personal projekt
-baseurl: "/ubuild-jekyll"
+baseurl: "/"
 url: ''
 defaults:
 - scope:
