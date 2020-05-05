@@ -14,6 +14,10 @@ page_sections:
   cta:
     url: https://pub.dev/publishers/dart.tools/packages
     button_text: pub.dev
+- template: navigation-header
+  block: header-1
+  logo: ''
+  navigation: []
 - template: detail-content
   block: text-1
   content: <p>There are the tools that I wrote since I started writing on the dart
@@ -23,9 +27,6 @@ page_sections:
     and pub dev introduced the conception of publishers, I create a publisher named
     as dart.tools, so and created this resource.</p>
   headline: dart.tools
-- template: simple-header
-  block: header-3
-  logo: ''
 - template: content-feature
   block: feature-1
   media_alignment: Left
