@@ -1,5 +1,5 @@
 ---
-headline: Welcome
-content: Hi there!
+headline: Personal
+content: About me
 
 ---
