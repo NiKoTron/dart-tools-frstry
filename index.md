@@ -1,7 +1,7 @@
 ---
 layout: blocks
 title: Homepage
-date: 2020-05-04 21:00:00 +0000
+date: 2020-05-04T21:00:00.000+00:00
 page_sections:
 - template: navigation-header-w-button
   block: header-2
@@ -60,17 +60,18 @@ page_sections:
   block: one-column-1
   headline: And more in progress
   content: Currently, I'm developing a few new tools on the dart. Stay tuned!
-- template: simple-footer
-  block: footer-1
-  content: feel free to contact me <a href="" title="">nickolay.simonov@outlook.com</a>
 - template: 4-column-footer
   block: footer-2
-  col_2: "<strong>Projects</strong><br>Dart tags<br>Dart LUT<br>GeoHex"
+  col_2: <strong>Projects</strong><br>Dart tags [<a href="https://pub.dev/packages/dart_tags"
+    title="">pub.dev</a>] [<a href="https://github.com/NiKoTron/dart-tags" title="">github</a>]<br>Dart
+    LUT [<a href="https://pub.dev/packages/dart_lut" title="">pub.dev</a>] [<a href="https://github.com/NiKoTron/dart-lut"
+    title="">github</a>]<br>GeoHex [<a href="https://pub.dev/packages/geohex" title="">pub.dev</a>]
+    [<a href="https://github.com/NiKoTron/geohex" title="">github</a>]
   col_4: '<strong>Contact<br></strong>email: <a href="maito:nickolay.simonov@outlook.com"
     title="mail me">nickolay.simonov@outlook.com</a><br>whatsapp: <a href="https://wa.me/79608314000"
     title="whatsapp me">+79608314000</a><br>telegram: <a href="https://t.me/flounderdog"
     title="telegram me">@flounderdog</a>'
-  image: ''
+  image: "/uploads/2020/05/04/Text.svg"
   col_3: ''
 
 ---
