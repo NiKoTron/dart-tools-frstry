@@ -9,7 +9,7 @@ page_sections:
   navigation:
   - link: "/"
     link_text: Home
-  - link: "#projects"
+  - link: "#features"
     link_text: Projects
   cta:
     url: https://pub.dev/publishers/dart.tools/packages
