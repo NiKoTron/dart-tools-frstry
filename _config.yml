@@ -13,3 +13,6 @@ defaults:
 plugins:
 - jekyll-feed
 - jekyll-menus
+
+# Google services
+google_analytics: UA-165580497-1
