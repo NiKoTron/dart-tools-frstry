@@ -63,6 +63,15 @@ page_sections:
 - template: simple-footer
   block: footer-1
   content: feel free to contact me <a href="" title="">nickolay.simonov@outlook.com</a>
+- template: 4-column-footer
+  block: footer-2
+  col_2: "<strong>Projects</strong><br>Dart tags<br>Dart LUT<br>GeoHex"
+  col_4: '<strong>Contact<br></strong>email: <a href="maito:nickolay.simonov@outlook.com"
+    title="mail me">nickolay.simonov@outlook.com</a><br>whatsapp: <a href="https://wa.me/79608314000"
+    title="whatsapp me">+79608314000</a><br>telegram: <a href="https://t.me/flounderdog"
+    title="telegram me">@flounderdog</a>'
+  image: ''
+  col_3: ''
 
 ---
 foo bar
