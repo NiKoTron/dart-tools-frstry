@@ -50,8 +50,8 @@ page_sections:
   block: feature-1
   media_alignment: Left
   headline: "<strong>GeoHex </strong>| Dart version of GeoHex lib."
-  content: Implementation of <a href="http://www.geohex.org/">GeoHex</a> encoding
-    for Dart language.<br><br>view on <a href="https://github.com/NiKoTron/geohex"
+  content: Dart implementation of Hexagonal geo-coding system (<a href="http://www.geohex.org/"
+    title="GeoHex">GeoHex.org</a>) encoding.<br><br>view on <a href="https://github.com/NiKoTron/geohex"
     title="GitHub">GitHub</a> | <a href="https://pub.dev/packages/geohex" title="Pub.dev">Pub.dev</a>
   media:
     image: "/uploads/2020/05/04/hex-terrain.jpg"
