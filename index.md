@@ -17,7 +17,9 @@ page_sections:
 - template: navigation-header
   block: header-1
   logo: ''
-  navigation: []
+  navigation:
+  - link: ''
+    link_text: ''
 - template: detail-content
   block: text-1
   content: <p>There are the tools that I wrote since I started writing on the dart
