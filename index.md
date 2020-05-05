@@ -1,7 +1,7 @@
 ---
 layout: blocks
-title: Homepage
-date: 2020-05-04T21:00:00.000+00:00
+title: dart.tools
+date: 2020-05-05 21:00:00 +0000
 page_sections:
 - template: navigation-header-w-button
   block: header-2
@@ -22,7 +22,7 @@ page_sections:
     I started to publish my libs on to <a href="https://pub.dev" title="">pub.dev</a>
     and pub dev introduced the conception of publishers, I create a publisher named
     as dart.tools, so and created this resource.</p>
-  headline: dart.tools
+  headline: DART TOOLS
 - template: content-feature
   block: feature-1
   media_alignment: Left
