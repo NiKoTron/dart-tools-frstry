@@ -14,12 +14,6 @@ page_sections:
   cta:
     url: https://pub.dev/publishers/dart.tools/packages
     button_text: pub.dev
-- template: navigation-header
-  block: header-1
-  logo: ''
-  navigation:
-  - link: ''
-    link_text: ''
 - template: detail-content
   block: text-1
   content: <p>There are the tools that I wrote since I started writing on the dart
