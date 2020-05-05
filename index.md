@@ -58,8 +58,9 @@ page_sections:
     alt_text: Hex terrain
 - template: 1-column-text
   block: one-column-1
-  headline: And more in progress
-  content: Currently, I'm developing a few new tools on the dart. Stay tuned!
+  headline: "---"
+  content: If you want to ask me something, collaborate or hire me, please feel free
+    to contact me. (contacts in the header below)
 - template: 4-column-footer
   block: footer-2
   col_2: <strong>Projects<br></strong><br>Dart tags [<a href="https://pub.dev/packages/dart_tags"
