@@ -23,31 +23,9 @@ page_sections:
     and pub dev introduced the conception of publishers, I create a publisher named
     as dart.tools, so and created this resource.</p>
   headline: dart.tools
-- template: 2-column-text
-  block: two-column-1
-  col_1:
-    headline: dart.tools
-    content: There are the tools that I wrote since I started writing on the dart
-      lang.<br><br>Usually, it's libraries, that I've created to solve some problem
-      that had faced to me or PoC research for playing with the new language.<br><br>Since
-      I started to publish my libs on to <a href="https://pub.dev" title="">pub.dev</a>
-      and pub dev introduced the conception of publishers, I create a publisher named
-      as dart.tools, so and created this resource.
-  col_2:
-    headline: ''
-    content: ''
-- template: hero-banner-w-image
-  block: hero-2
-  headline: Dart tools<br><strong>on dart</strong>
-  content: There are tools written by me on the dart language.
-  cta:
-    enabled: true
-    url: https://github.com/NiKoTron
-    button_text: 'Folow me on GitHub '
-  image:
-    image: ''
-    alt_text: ''
-  background_image: ''
+- template: simple-header
+  block: header-3
+  logo: ''
 - template: content-feature
   block: feature-1
   media_alignment: Left
