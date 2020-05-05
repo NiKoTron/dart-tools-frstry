@@ -60,7 +60,7 @@ page_sections:
   block: one-column-1
   headline: "---"
   content: If you want to ask me something, collaborate or hire me, please feel free
-    to contact me. (contacts in the header below)
+    to contact me.<br>(contacts in the footer below)
 - template: 4-column-footer
   block: footer-2
   col_2: <strong>Projects<br></strong><br>Dart tags [<a href="https://pub.dev/packages/dart_tags"
