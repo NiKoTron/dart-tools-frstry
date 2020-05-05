@@ -5,7 +5,7 @@ date: 2020-05-04T21:00:00.000+00:00
 page_sections:
 - template: navigation-header-w-button
   block: header-2
-  logo: "/uploads/2020/05/04/Text.svg"
+  logo: "/uploads/2020/05/05/Text(1).svg"
   navigation:
   - link: "/"
     link_text: Home
@@ -75,7 +75,7 @@ page_sections:
     title="mail me">nickolay.simonov@outlook.com</a><br>whatsapp: <a href="https://wa.me/79608314000"
     title="whatsapp me">+79608314000</a><br>telegram: <a href="https://t.me/flounderdog"
     title="telegram me">@flounderdog</a>'
-  image: "/uploads/2020/05/04/Text.svg"
+  image: "/uploads/2020/05/05/Text(1).svg"
   col_3: ''
 
 ---
